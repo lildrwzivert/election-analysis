@@ -2,7 +2,7 @@
 
 ## Overview of Election Audit
 
-The purpose of this Colorado congressional election audit is to determine the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout. We determined the total votes casted in the district, the winner of the election, the votes per candidate and their percentage of the vote count
+The purpose of this Colorado congressional election audit is to determine the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout. We determined the total votes casted in the district, the winner of the election, the votes per candidate and their percentage of the vote count.
 
 ## Election-Audit Results
 
