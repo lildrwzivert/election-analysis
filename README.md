@@ -8,8 +8,8 @@ The purpose of this Colorado congressional election audit is to determine the vo
 
 369,711 votes were cast in the district. Denver had the largest voter tunrout.
 
--   Denver: 82.8% (306,055) votes
 -   Jefferson: 10.5% (38,855) votes
+-   Denver: 82.8% (306,055) votes
 -   Arapahoe: 6.7% (24,801) votes
 
 Breakdown of votes and percentage by candidate:
@@ -19,6 +19,8 @@ Breakdown of votes and percentage by candidate:
 -   Raymon Anthony Doane: 3.1% (11,606) votes
 
 Diana DeGette candidate won the election with 73.8% of the vote and 272,892 votes total.
+
+! [alt text] https://github.com/lildrwzivert/election-analysis/blob/main/resources/Screen%20Shot%202021-11-07%20at%208.59.48%20PM.png
 
 ## Election-Audit Summary
 
