@@ -6,13 +6,13 @@ The purpose of this Colorado congressional election audit is to determine the vo
 
 ## Election-Audit Results
 
-- 369,711 votes were cast in the district. Denver had the largest voter tunrout.
+369,711 votes were cast in the district. Denver had the largest voter tunrout.
 
 -   Denver: 82.8% (306,055) votes
 -   Jefferson: 10.5% (38,855) votes
 -   Arapahoe: 6.7% (24,801) votes
 
-- Breakdown of votes and percentage by candidate:
+Breakdown of votes and percentage by candidate:
 
 -   Charles Casper Stockham: 23.0% (85,213) votes 
 -   Diana DeGette: 73.8% (272,892) votes
