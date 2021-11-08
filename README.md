@@ -24,3 +24,4 @@ Diana DeGette candidate won the election with 73.8% of the vote and 272,892 vote
 
 ## Election-Audit Summary
 
+The script could be modified to print the method of voting used and voluntary survey data (demographics, zip code, political affiliation).
